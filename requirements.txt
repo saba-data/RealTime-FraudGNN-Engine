@@ -1,0 +1,21 @@
+# Data Processing & Streaming
+pandas
+numpy
+pyspark
+networkx
+
+# Machine Learning & Deep Learning
+torch
+torch-geometric
+scikit-learn
+
+# Web Framework & API
+fastapi
+uvicorn
+pydantic
+
+# Utilities & Visualization
+matplotlib
+seaborn
+jupyter
+python-dotenv
