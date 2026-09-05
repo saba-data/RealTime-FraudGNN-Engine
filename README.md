@@ -1,5 +1,8 @@
 # 🛡️ GraphShield AI: Real-Time Fraud Network Detection Engine
-
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch%20Geometric-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 GraphShield AI is an enterprise-grade financial fraud detection engine that leverages **Graph Neural Networks (GNNs)** and real-time API serving to identify complex fraud rings and high-risk financial transactions in under **5 milliseconds**.
 
 ---
